@@ -8,7 +8,7 @@ A deep learning project focused on solving a regression task to predict housing 
 ## **Overview**
 This project demonstrates the application of **deep learning techniques** to predict housing prices. Using a fully connected neural network (Multi-Layer Perceptron - MLP), the model effectively handles the regression task by capturing intricate patterns and relationships in the dataset. This project showcases the complete workflow, from data preprocessing to model evaluation.
 
----
+---------
 
 ## **Features**
 - **Data Preprocessing**:  

@@ -26,7 +26,7 @@ This project demonstrates the application of **deep learning techniques** to pre
   - Generated detailed loss curves to monitor training progress.  
   - Plotted **actual vs predicted prices** for better insight into model performance.
 
----
+--------
 
 ## **Technologies Used**
 - **Python**  
